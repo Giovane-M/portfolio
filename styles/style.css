@@ -111,13 +111,13 @@ body {
 }
 
 .rodape {
-    padding: 24px;
+    padding: 10px;
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--font-segundaria);
-    font-size: 1.5rem;
-    font-weight: 400;
+    font-size: 1rem;
+    font-weight: 100;
 }
 
 @media (max-width: 1200px) {
